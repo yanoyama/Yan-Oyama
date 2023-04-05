@@ -1,4 +1,4 @@
-# 🤚 Meu nome é Yan Oyama
+# ✋ Meu nome é Yan Oyama
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanoyama&show_icons=true&theme=tokyonight) 
 
